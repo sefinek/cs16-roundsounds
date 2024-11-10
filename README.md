@@ -40,7 +40,7 @@ Informuje, że warunki licencji mogą ulec zmianie od momentu publikacji jakiejk
 > Tak, zdaję sobie sprawę z tego, że punkt czwarty jest trochę bezużyteczny. Pamiętaj — stworzyłem ten pliczek tylko przy okazji...
   
 ## Pomoc
-W razie jakichkolwiek problemów lub spraw, utwórz nowy [Issue](https://github.com/sefinek24/cs16-roundsounds/issues/new).
+W razie jakichkolwiek problemów lub spraw, utwórz nowy [Issue](https://github.com/sefinek/cs16-roundsounds/issues/new).
 
 ## Końcowe informacje
 Jeżeli spodobała Ci się paczka, daj stara temu repozytorium. Pozdrawiam.
